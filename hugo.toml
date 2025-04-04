@@ -6,3 +6,13 @@ Params.author = "KuoYu Huang"
 Params.description = "A software engineer"
 Params.bio = "Google engineer, NTU CS master"
 Params.portrait = "data/self_pic.jpg"
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/kuo-yu-huang-65020a14b/"
+    name = "linkedin"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/seasa2016"
+    name = "github"
+    weight = 1
