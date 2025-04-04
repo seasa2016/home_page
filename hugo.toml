@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://seasa2016.github.io/home_page/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme = "erblog"
