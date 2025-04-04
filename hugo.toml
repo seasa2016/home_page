@@ -1,4 +1,8 @@
-baseURL = 'https://seasa2016.github.io/home_page/'
+baseURL = 'https://seasa2016.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'KuoYu Home'
 theme = "erblog"
+Params.author = "KuoYu Huang"
+Params.description = "A software engineer"
+Params.bio = "Google engineer, NTU CS master"
+Params.portrait = "data/self_pic.jpg"
